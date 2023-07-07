@@ -4,6 +4,19 @@
   box-sizing: border-box;
 }
 
+:root {
+  --primary: #ffffff;
+  --background: #030922;
+  --dark-background: #02071b;
+  --input-background: #091030;
+  --roadmap-icon: #6b81d9;
+  --text-blue: #2499f9;
+  --blue: #1457ed;
+  --green: #50fc61;
+  --red: #ff3333;
+  --subdue-button: #021338fa;
+}
+
 html {
   scroll-behavior: smooth;
 }
