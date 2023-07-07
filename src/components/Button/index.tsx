@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 interface ButtonProps {
   text: string;
-  icon?: boolean;
+  icon?: boolean | React.ReactNode;
   subduedButton?: boolean;
 }
 
